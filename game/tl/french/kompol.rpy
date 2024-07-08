@@ -362,7 +362,7 @@ translate french kompol_bc6dd12b:
 translate french kompol_ffc1d1c8:
 
     # k "- Не-е-е-е-ет! УХОДИ!!!"
-    k "- Nooon! VA-T-EN!!!"
+    k "- No-o-o-on! VA-T-EN!!!"
 
 # game/kompol.rpy:162
 translate french kompol_fa82eb17:
@@ -440,7 +440,7 @@ translate french kompol_bc11ba71:
 translate french kompol_1eb6cd43:
 
     # k "- О-о-о-о-о-о!.."
-    k "- Oooooooo...!"
+    k "- О-о-о-о-о-о...!"
 
 # game/kompol.rpy:195
 translate french kompol_b5860ebe:
@@ -464,7 +464,7 @@ translate french kompol_9ff5f593:
 translate french kompol_1eb6cd43_1:
 
     # k "- О-о-о-о-о-о!.."
-    k "- Oooooooo...!"
+    k "- О-о-о-о-о-о...!"
 
 # game/kompol.rpy:205
 translate french kompol_9a477c24_1:
@@ -482,7 +482,7 @@ translate french kompol_6f7be3fd:
 translate french kompol_1eb6cd43_2:
 
     # k "- О-о-о-о-о-о!.."
-    k "- Oooooooo...!"
+    k "- О-о-о-о-о-о...!"
 
 # game/kompol.rpy:208
 translate french kompol_c854b3f3_1:
@@ -494,7 +494,7 @@ translate french kompol_c854b3f3_1:
 translate french kompol_1eb6cd43_3:
 
     # k "- О-о-о-о-о-о!.."
-    k "- Oooooooo...!"
+    k "- О-о-о-о-о-о...!"
 
 # game/kompol.rpy:210
 translate french kompol_26efe6df:
@@ -554,7 +554,7 @@ translate french kompol_826bc437:
 translate french kompol_bbdf8c26:
 
     # k "- О-о-о-о-о-о..."
-    k "- Oooooooo...!"
+    k "- О-о-о-о-о-о...!"
 
 # game/kompol.rpy:226
 translate french kompol_9cfb4e99_1:
@@ -638,7 +638,7 @@ translate french kompol_152b1caf:
 translate french kompol_bbdf8c26_1:
 
     # k "- О-о-о-о-о-о..."
-    k "- Oooooooo...!"
+    k "- О-о-о-о-о-о...!"
 
 # game/kompol.rpy:246
 translate french kompol_76087a4a:
@@ -656,7 +656,7 @@ translate french kompol_88639b07:
 translate french kompol_bbdf8c26_2:
 
     # k "- О-о-о-о-о-о..."
-    k "- Oooooooo...!"
+    k "- О-о-о-о-о-о...!"
 
 # game/kompol.rpy:249
 translate french kompol_01a857ce:
@@ -728,7 +728,7 @@ translate french kompol_0f08b663:
 translate french kompol_cb7a8661:
 
     # k "- О-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о!.."
-    k "- Ooooooooooooo...!"
+    k "- О-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о...!"
 
 # game/kompol.rpy:279
 translate french kompol_b69fc815:
@@ -740,7 +740,7 @@ translate french kompol_b69fc815:
 translate french kompol_434226f7:
 
     # k "- О-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о!.."
-    k "- Ooooooooooooooooooooo...!"
+    k "- О-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о...!"
 
 # game/kompol.rpy:281
 translate french kompol_a4d90740:
@@ -752,13 +752,13 @@ translate french kompol_a4d90740:
 translate french kompol_46793bb5:
 
     # k "- О-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о!.."
-    k "- Ooooooooooooooooooooooooooooo...!"
+    k "- О-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о-о...!"
 
 # game/kompol.rpy:283
 translate french kompol_ffc1d1c8_1:
 
     # k "- Не-е-е-е-ет! УХОДИ!!!"
-    k "- Noooooooooon! VA-T-EN!!!"
+    k "- No-o-o-o-on! VA-T-EN!!!"
 
 # game/kompol.rpy:284
 translate french kompol_6de7bec5:

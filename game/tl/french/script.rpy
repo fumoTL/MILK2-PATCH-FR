@@ -1257,7 +1257,7 @@ translate french strings:
 translate french choice1_95727540:
 
     # gg "- Да плевать я хотела!"
-    gg "- Je m'en fiche!"
+    gg "- Je m'en fous!"
 
 translate french strings:
     # game/script.rpy:761
@@ -1521,7 +1521,7 @@ translate french strings:
 translate french choice1_9dd2b8c5:
 
     # "{size=60}НЕ-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е-Е{nw}{/size}"
-    "{size=60}NOOOOOOOOOOOOOOOOOOOON{nw}{/size}"
+    "{size=60}NO-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O-ON{nw}{/size}"
 
 # game/script.rpy:924
 translate french choice1_02e515ec:

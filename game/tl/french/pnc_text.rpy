@@ -8,28 +8,28 @@ translate french backpack_38718438:
 translate french backpack_2678b6c1:
 
     # "С другого угла он похож на набитое брюхо - его содержимое точно так же переваривается, разлагается и превращается в густую кашу."
-    "Sous un autre angle, on dirait un ventre plein. Son contenu est également en train de régurgiter, de se décomposer et de se transformer en une substance gluante et pâteuse."
+    "Sous un autre angle, on dirait un ventre plein. Son contenu est en train de de se décomposer et de se transformer en une substance gluante et pâteuse."
 
 # game/pnc_text.rpy:14
 translate french backpack_61aaf7e3:
 
     # gg "- Классно я придумала, надо бы запомнить..."
-    gg "- Quelle belle image, il faut que je m’en souvienne..."
+    gg "- Quelle belle analogie, il faut que je la retienne..."
 
 translate french strings:
     # game/pnc_text.rpy:15
     old "(Совсем не классно.)"
-    new "(M'ouais...)"
+    new "(C'est dégoûtant...)"
 
     # game/pnc_text.rpy:15
     old "(Совсем не классно. Мерзко и ужасно.)"
-    new "(Mais c'est dégoûtant et horrible.)"
+    new "(C'est dégoûtant et horrible.)"
 
 # game/pnc_text.rpy:21
 translate french backpack_e615eecb:
 
     # gg "- А вот и нет - мой тебе ответ!"
-    gg "- Tu es là, mais je m’en fiche!"
+    gg "- Comme toi."
 
 translate french strings:
     # game/pnc_text.rpy:22
@@ -40,7 +40,7 @@ translate french strings:
 translate french backpack_06036bad:
 
     # gg "- Обижаешь... ведь ты мне как родной! Хи-хи!"
-    gg "- Quoi? Je n’oserais pas... après tout, tu n’es pas mon animal de compagnie! Héhéhé!"
+    gg "- Quoi? Je n’oserais pas... Après tout, tu fais parti de la famille pour moi! Héhéhé!"
 
 translate french strings:
     # game/pnc_text.rpy:28
