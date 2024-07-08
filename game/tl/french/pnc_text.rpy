@@ -52,7 +52,7 @@ translate french backpack_b5138861:
 
     # gg "- Поняла!"
     gg "- Compris!"
-
+test
 # game/pnc_text.rpy:37
 translate french backpack_557726c8:
 
